@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Kigali" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [30.0, -2.0], [30.15, -2.0], [30.15, -1.90],
+          [30.0, -1.90], [30.0, -2.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Bugesera" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [30.15, -2.3], [30.35, -2.3], [30.35, -2.15],
+          [30.15, -2.15], [30.15, -2.3]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Musanze" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [29.55, -1.55], [29.70, -1.55], [29.70, -1.45],
+          [29.55, -1.45], [29.55, -1.55]
+        ]]
+      }
+    }
+  ]
+}

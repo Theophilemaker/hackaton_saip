@@ -1,0 +1,36 @@
+# Environment
+.env
+.env.local
+config/config.php
+
+# Uploads (keep folder, ignore contents)
+public/uploads/**/*
+!public/uploads/.htaccess
+!public/uploads/chat/.gitkeep
+!public/uploads/products/.gitkeep
+
+# Logs
+storage/logs/*.log
+storage/cache/*
+!storage/cache/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Node
+node_modules/
+npm-debug.log
+
+# Composer
+vendor/
+
+# Backups
+*.bak
+*.sql.gz

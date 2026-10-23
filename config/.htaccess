@@ -1,0 +1,37 @@
+Require all denied# =====================================================================
+# SAIP Config Folder Protection
+# Blocks ALL web access to config files
+# =====================================================================
+
+# Deny all access (Apache 2.4+)
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+
+# Deny all access (Apache 2.2 fallback)
+<IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+</IfModule>
+
+# Extra safety: block by file extension
+<FilesMatch "\.(php|ini|log|json|yaml|yml|xml|env)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# Block hidden files (starting with a dot)
+<FilesMatch "^\.">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>

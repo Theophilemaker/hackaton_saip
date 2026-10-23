@@ -1,0 +1,12 @@
+district,crop_name,avg_yield_kg_ha,avg_fertilizer_kg_ha,irrigation_pct
+Musanze,Maize,2600,55,18
+Nyagatare,Maize,3200,60,22
+Kirehe,Maize,2500,50,15
+Huye,Maize,2200,45,12
+Rwamagana,Maize,2400,48,14
+Musanze,Beans,1400,40,18
+Nyagatare,Beans,1500,42,22
+Kirehe,Beans,1200,38,15
+Musanze,Irish Potato,14500,80,18
+Nyagatare,Irish Potato,13200,75,22
+Bugesera,Rice,4800,55,25
