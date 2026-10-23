@@ -122,3 +122,5 @@ The platform follows a **4-layer enterprise architecture**.
 - File storage (uploads/)
 
 ## 2.5 Architecture Diagram
+<img width="1536" height="1024" alt="picture design" src="https://github.com/user-attachments/assets/eaab8cc3-4926-479a-a255-556b6a2ca913" />
+
