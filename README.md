@@ -172,7 +172,7 @@ The SAIP platform is fully deployed and accessible for live testing by the judge
 ## 10. Team & Declaration
 
 **Team Name:** Theophile NIRAGIRE and NSENGIYUMVA Daniel Project  
-**Institution:** University of Rwanda student from department of Business Information Technology  
+**Institution:** University of Rwanda students from department of Business Information Technology  
 **Competition:** NISR Big Data Hackathon 2026
 
 *We declare that this submission is our own original work, has never been submitted to any other competition or entity in the past, and that all applicable sources of reference are acknowledged in full. We grant NISR permission to use and reproduce this work with appropriate acknowledgment.*
