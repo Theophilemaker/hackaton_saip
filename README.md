@@ -168,7 +168,12 @@ The SAIP platform is fully deployed and accessible for live testing by the judge
 5.  Start Apache and MySQL, then navigate to `http://localhost/hackaton_saip/public`.
 
 ---
-
+**the website credential you may use instead of creating account **
+#agricultural officer,Email:sam@gmail.com,pword:sam1234567
+#farmer Email:theophilen298@gmail.com pword:Test1234!
+#cooperative leader Email:samson@gmail.com pword:samson1234
+#exporter Email:shema@gmail.com pword:shema123
+#reseacher Email: eric@gmail.com pword:eric123456
 ## 10. Team & Declaration
 
 **Team Name:** Theophile NIRAGIRE and NSENGIYUMVA Daniel Project  
