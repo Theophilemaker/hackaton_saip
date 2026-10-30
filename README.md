@@ -1,7 +1,7 @@
 # 🌱 SAIP — Smart Agriculture Intelligence Platform
 
 [![NISR Hackathon 2026](https://img.shields.io/badge/NISR-Big%20Data%20Hackathon%202026-green.svg)](#)
-[![Track 5](https://img.shields.io/badge/Track-5%3A%20Open%20Innovation-blue.svg)](#)
+[![Track 5](https://img.shields.io/badge/Track-1%3A%20OAgricultural%20Productivity-blue.svg)](#)
 [![PHP Version](https://img.shields.io/badge/PHP-8.x-purple.svg)](#)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-orange.svg)](#)
 
@@ -20,7 +20,7 @@
 4. [System Architecture & Tech Stack](#4-system-architecture--tech-stack)
 5. [NISR Data Utilization & AI Methodology](#5-nisr-data-utilization--ai-methodology)
 6. [Hackathon Evaluation Criteria](#6-hackathon-evaluation-criteria)
-7. [Alignment with NST2 (2024-2029)](#7-alignment-with-nst2-2024-2029)
+7. [Alignment with NST2 (2024-2030)](#7-alignment-with-nst2-2024-2029)
 8. [Security, Privacy & Ethical AI](#8-security-privacy--ethical-ai)
 9. [Deployment & Installation](#9-deployment--installation)
 10. [Team & Declaration](#10-team--declaration)
@@ -129,7 +129,7 @@ SAIP heavily leverages **NISR open datasets** and external APIs to drive its pre
 
 ---
 
-## 7. Alignment with NST2 (2024-2029)
+## 7. Alignment with NST2 and vision 2050
 
 SAIP is explicitly designed to support the **National Strategy for Transformation (NST2)**:
 
