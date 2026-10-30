@@ -1,7 +1,7 @@
 # 🌱 SAIP — Smart Agriculture Intelligence Platform
 
 [![NISR Hackathon 2026](https://img.shields.io/badge/NISR-Big%20Data%20Hackathon%202026-green.svg)](#)
-[![Track 5](https://img.shields.io/badge/Track-1%3A%20OAgricultural%20Productivity-blue.svg)](#)
+[![Track 5](https://img.shields.io/badge/Track-1%3A%20Agricultural%20Productivity-blue.svg)](#)
 [![PHP Version](https://img.shields.io/badge/PHP-8.x-purple.svg)](#)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-orange.svg)](#)
 
