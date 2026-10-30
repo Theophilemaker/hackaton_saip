@@ -85,7 +85,7 @@ SAIP is built on a **4-layer enterprise MVC architecture**, ensuring high scalab
 | **Backend** | PHP 8+ (Custom MVC Framework), PDO |
 | **AI & Data** | Python 3, Scikit-learn, TensorFlow, Pandas |
 | **Database** | MySQL 8.0 (InnoDB, utf8mb4) |
-| **Deployment** | Railway / InfinityFree / XAMPP (Local) |
+| **Deployment** |  InfinityFree / XAMPP (Local) |
 
 ### Database Architecture
 The system utilizes a fully normalized (3NF) relational database consisting of **58 interconnected tables**, organized into 10 modules. It features:
