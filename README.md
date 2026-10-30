@@ -165,7 +165,7 @@ The SAIP platform is fully deployed and accessible for live testing by the judge
 1.  Clone the repository: `git clone https://github.com/Theophilemaker/hackaton_saip.git`
 2.  Move the project to your XAMPP/WAMP `htdocs` directory.
 3.  Import the database: Open phpMyAdmin, create a database named `saip_enterprise`, and import the `database/saip_enterprise.sql` file.
-4.  Configure environment variables: Rename `config/config.example.php` to `config/config.php` and add your database credentials.
+4.  Configure environment variables: Rename  `config/config.php` and add your database credentials.
 5.  Start Apache and MySQL, then navigate to `http://localhost/hackaton_saip/public`.
 
 ---
